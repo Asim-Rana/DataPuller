@@ -1,0 +1,12 @@
+[0903/183037:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183037:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
+[0903/183050:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183050:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
+[0903/183138:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183138:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
+[0903/183337:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183337:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
+[0903/183448:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183448:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
+[0903/183512:ERROR:icu_util.cc(149)] Couldn't mmap D:\Softwares Documents And Utilities\Windows Forms\DataPuller\DataPullerUI\bin\Debug\icudtl.dat
+[0903/183512:FATAL:content_main_runner.cc(721)] Check failed: base::i18n::InitializeICU(). 
